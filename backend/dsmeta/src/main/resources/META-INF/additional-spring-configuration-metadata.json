@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "twilio.key",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.key'"
+  },
+  {
+    "name": "java.lang.String",
+    "type": "java.lang.String",
+    "description": "A description for 'java.lang.String'"
+  },
+  {
+    "name": "java.lang.String",
+    "type": "java.lang.String",
+    "description": "A description for 'java.lang.String'"
+  },
+  {
+    "name": "twilio.sid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.sid'"
+  },
+  {
+    "name": "twilio.phone.to",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.phone.to'"
+  },
+  {
+    "name": "twilio.phone.from",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.phone.from'"
+  },
+  {
+    "name": "@org.springframework.beans.factory.annotation.Autowired(required",
+    "type": "java.lang.String",
+    "description": "A description for '@org.springframework.beans.factory.annotation.Autowired(required'"
+  },
+  {
+    "name": "@org.springframework.beans.factory.annotation.Autowired(required",
+    "type": "java.lang.String",
+    "description": "A description for '@org.springframework.beans.factory.annotation.Autowired(required'"
+  }
+]}
